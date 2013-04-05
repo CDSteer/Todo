@@ -5,24 +5,24 @@ Simple Todo list app for quick manipulation of a Todo list in a text file from b
 # Usage
 Compile the code using:
 
-    `$ javac Todo.java`
+    $ javac Todo.java
 
 In the directory of the class you can `add` `view` and `clear` tasks.
 
 ## Add
 To add a task:
 
-    `$ java Todo add myTask`
+    $ java Todo add myTask
 
 ## View
 To view all tasks:
 
-    `$ java Todo view`
+    $ java Todo view
 
 ## Clear
 To clear all tasks:
 
-    `$ java Todo clear`
+    $ java Todo clear
 
 # Future Development
 
